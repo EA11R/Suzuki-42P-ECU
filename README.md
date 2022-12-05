@@ -13,6 +13,33 @@ I took the neccesary pins of it to work and left over things such as temp sensor
 it can be pulled out of the ecu but I honestly can't tell how to turn that digital signal into numbers without further testing
 the IC before it however has a gradiant signal of voltage via the variant resistance of the temp thermos 
 I have took the neccesary pins to hook the ECU alongsite a daughter card that uses speeduino 
+
+//////////////////////////////////////////////////////////////////////////////
+## Currently Known PNPs
+https://www.keisport.us/pnp/
+/////////////////////////////////////////////////////////////////////////////
+## Current Daugtercards on sale
+   MTR40BB
+/////////////////////////////////////////////////////////////////////////////
+## Possible piggy-back ECU's
+1- E-manage (TRUST)
+
+2- HKS F-con (ALL)
+
+3- Speeduino ( can be standalone with some changes)
+
+4- any ECU that can get a squarewave signal and a choice of cylinders.
+///////////////////////////////////////////////////////////////////////////////////////////
+Current ("Free of charge") project
+
+1- an open source ECU adapter for speeduino boards & harness how to and links to purchace parts 
+
+2- Adapter PCBS for popular ecus with an added pip373 slot for distrubtor ignition!
+
+3- Modren Daughtercard using oem CPU + speeduino (atmega 2560) , for better ignition timing , full fuel control
+
+
+
 ///////////////////////////////////////////////////////////////////////////////////////////
 So lets see where this project goes and the documentation with it shall we 
 
