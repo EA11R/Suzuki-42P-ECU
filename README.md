@@ -19,7 +19,7 @@ I have took the neccesary pins to hook the ECU alongsite a daughter card that us
 https://www.keisport.us/pnp/
 /////////////////////////////////////////////////////////////////////////////
 ## Current Daugtercards on sale
-   MTR40BB
+   MTR40BB : https://buyee.jp/item/yahoo/auction/u1052820291
 /////////////////////////////////////////////////////////////////////////////
 ## Possible piggy-back ECU's
 1- E-manage (TRUST)
