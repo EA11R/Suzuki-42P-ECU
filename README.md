@@ -2,9 +2,14 @@
 The #1 source of Suzuki mask MPU information and resources 
  ## image of board 
  ![alt text](https://gcdnb.pbrd.co/images/1ydCnrPaT7p2.jpg)
+ 
+ 
+ 
  the board utilzes a 8-bit cpu which is masked it's believed to be close 
+ 
  the pinout has been previously figured out by (rhinopower) 
  www.rhinopower.org/ECUs/RomReader/Romreader.html
+ 
  ## pinout of the cpu 
   ![alt text](https://gcdnb.pbrd.co/images/Y1y29Iqc7OYW.jpg?o=1)
 
