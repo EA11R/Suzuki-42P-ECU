@@ -34,7 +34,7 @@ https://www.keisport.us/pnp/
 3- Speeduino ( can be standalone with some changes)
 
 4- any ECU that can get a squarewave signal and a choice of cylinders.
-///////////////////////////////////////////////////////////////////////////////////////////
+##///////////////////////////////////////////////////////////////////////////////////////////
 Current ("Free of charge") project
 
 1- an open source ECU adapter for speeduino boards & harness how to and links to purchace parts 
@@ -57,7 +57,18 @@ Prepare for Piggyback install :
   
    the rest of the information will be on each independant ecu catagory with it's own install guide.
   
+//////////////////////////////////////////////////////////////////////////////////////////
+## Repair 
+As far as repair goes within the suzuki ecu
+if you manage to burn the cpu or the IC101 you need another suzuki ecu as a donor to fix that 
+otherwise all other parts can be found off shelf 
+the similar ICs are AD chips.
+
+
+
 ///////////////////////////////////////////////////////////////////////////////////////////
+
+
 So lets see where this project goes and the documentation with it shall we 
 
 
@@ -66,4 +77,5 @@ So lets see where this project goes and the documentation with it shall we
 
 
 Qatif Speed Factory -------------/// Saleh.M
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
