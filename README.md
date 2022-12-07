@@ -64,8 +64,8 @@ the similar ICs are AD chips.
 
 | ECU | PDF/DIR  |
 | ------ | ------ |
-| HKS F-CON IS Pinout |[Click Here](HKS_F_CONV + IS/F-conIS.jpg) |
-| HKS F-CON IS Installion Notes |[Click Here](HKS_F_CONV + IS/installation%20notes.md) |
+| HKS F-CON IS Pinout |[Click Here](HKS_F_CONV_&_IS/F-conIS.jpg) |
+| HKS F-CON IS Installion Notes |[Click Here](HKS_F_CONV_&_IS/installation%20notes.md) |
 | E-Manage (TRUST) |[Directory](E-manage/) |
 | MCU & EPPROM's   |[Directory](Datasheet/)
 
