@@ -68,6 +68,8 @@ the similar ICs are AD chips.
 | HKS F-CON IS Installion Notes |[Click Here](HKS_F_CONV_&_IS/installation%20notes.md) |
 | E-Manage (TRUST) |[Directory](E-manage/) |
 | MCU & EPPROM's   |[Directory](Datasheet/)
+| MTR40BB   |[Directory](MTR40BB%20INFORMATION/)
+| Speeduino   |[Directory](speeduino/)
 
 So lets see where this project goes and the documentation with it shall we 
 
