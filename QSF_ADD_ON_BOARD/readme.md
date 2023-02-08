@@ -13,3 +13,23 @@ the map sensor can be connected via ADC chip but the better choice is to use the
 
 there's extra circuit that could be built under the MPU to add a third injection channel to fully sequentially control the fuel on the engine 
 so it becomes a single injection channel for each injector instead of the paired wire #20 on the oem harness 
+
+-------------- **FEATURES** -------------------
+
+1- On Board boost control ( requires a external solenoid) 
+Ran via PWM signal 
+2- Wideband support over the same wire (OX signal) 
+3- Third Injection Channel 
+4- Usage of full range TPS for accel enrichment 
+5- External tach RPM wire (12v)
+
+------------------------------------------------
+**Third Injection channel**
+A Twin wire harness can be wired straight from the board to the injector #3 
+This modification will convert the injection system to fully sequential 
+------------------------------------------------
+** Ignition Advance control **
+However it's very limted and not actually that useful but it's still possible 
+I strongly advise just sticking to moving the distrubutor to adjust the timing or
+buying viarable cam wheels however adjusting small increments on higher boost could be done
+over computer 
