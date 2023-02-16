@@ -13,6 +13,12 @@ The #1 source of Suzuki mask MPU information and resources
  ## pinout of the cpu 
   ![alt text](https://gcdnb.pbrd.co/images/Y1y29Iqc7OYW.jpg?o=1)
 
+## about [*IC101*]
+the raw sensor input connects to IC101 before being converted to digital signals 
+and sent to CPU on the Right side of the IC the raw inputs could be sniffed as a 0-5v
+analog signal.
+
+
 > this is a pinout of the ecu pulled over by a scope and some testing 
 I took the neccesary pins of it to work and left over things such as temp sensors 
 it can be pulled out of the ecu but I honestly can't tell how to turn that digital signal into numbers without further testing
@@ -23,6 +29,9 @@ I have took the neccesary pins to hook the ECU alongsite a daughter card that us
 https://www.keisport.us/pnp/
 ## Current Daugtercards on sale
    MTR40BB : https://buyee.jp/item/yahoo/auction/u1052820291
+   
+   QSF313_F6A : https://github.com/EA11R/Suzuki-42P-ECU/tree/main/QSF_ADD_ON_BOARD
+
 ## Possible piggy-back ECU's
 - E-manage (TRUST)
 
@@ -60,16 +69,42 @@ if you manage to burn the cpu or the IC101 you need another suzuki ecu as a dono
 otherwise all other parts can be found off shelf 
 the similar ICs are AD chips.
 
+## My PNP Card Design 
+converts the OEM stock ECU into a tuneable 
+ECU and adds a Addtional injection channel 
+to convert fueling into fully sequential
+
+Features:
+
+-Internal MAP option 
+
+-wideband support 
+
+-Ignition control (optional)
+
+-Bluetooth 
+
+-Data logging (bluetooth or usb)
+
+
+
+![IMG_9346](https://user-images.githubusercontent.com/82368250/219488621-e23a3fb9-1fba-4b5f-b295-8bf397ed1a99.jpg)
+
+
 ## PDF Resources & Notes
 
 | ECU | PDF/DIR  |
 | ------ | ------ |
+| QSF_F6A   |[Directory](QSF_ADD_ON_BOARD/readme.md)
 | HKS F-CON IS Pinout |[Click Here](HKS_F_CONV_&_IS/F-conIS.jpg) |
 | HKS F-CON IS Installion Notes |[Click Here](HKS_F_CONV_&_IS/installation%20notes.md) |
 | E-Manage (TRUST) |[Directory](E-manage/) |
 | MCU & EPPROM's   |[Directory](Datasheet/)
 | MTR40BB   |[Directory](MTR40BB%20INFORMATION/)
 | Speeduino   |[Directory](speeduino/)
+| Distributor_wheel   |[Directory](Distributor_Modification/readme.md)
+                
+
 
 So lets see where this project goes and the documentation with it shall we 
 
