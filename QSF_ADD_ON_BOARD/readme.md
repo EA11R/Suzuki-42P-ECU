@@ -39,5 +39,5 @@ This modification will convert the injection system to fully sequential
 ** Ignition Advance control **
 However it's very limted and not actually that useful but it's still possible 
 I strongly advise just sticking to moving the distrubutor to adjust the timing or
-buying viarable cam wheels however adjusting small increments on higher boost could be done
+buying viarable cam gears however adjusting small increments on higher boost could be done
 over computer 
