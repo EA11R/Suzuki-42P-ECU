@@ -1,8 +1,9 @@
 # Suzuki-42P-ECU
 The #1 source of Suzuki mask MPU information and resources 
  ## image of board 
- ![alt text](https://gcdnb.pbrd.co/images/1ydCnrPaT7p2.jpg)
  
+ ![i-img1200x903-1666231880i3cpzc833943](https://user-images.githubusercontent.com/82368250/230820564-450ab1d6-fdd1-4f6e-8afe-afcb6894f376.jpg)
+
  
  
  the board utilzes a 8-bit cpu which is masked it's believed to be close 
@@ -11,7 +12,8 @@ The #1 source of Suzuki mask MPU information and resources
  www.rhinopower.org/ECUs/RomReader/Romreader.html
  
  ## pinout of the cpu 
-  ![alt text](https://gcdnb.pbrd.co/images/Y1y29Iqc7OYW.jpg?o=1)
+  ![IMG_0691_result](https://user-images.githubusercontent.com/82368250/230824265-55904e76-d08a-4f00-839f-5ac02835fae6.png)
+
 
 ## about [*IC101*]
 the raw sensor input connects to IC101 before being converted to digital signals 
@@ -49,8 +51,9 @@ Current ("Free of charge") project
 - Modren Daughtercard using oem CPU + speeduino (atmega 2560) , for better ignition timing , full fuel control
 
 > Prepare for Piggyback install : 
+![IMG_8498](https://user-images.githubusercontent.com/82368250/230824334-06d7a9eb-bb7e-4e37-abc9-e3ff67b28280.jpg)
 
-  ![alt text](https://gcdnb.pbrd.co/images/rOFZfakCF07A.jpg?o=1)
+ 
  - 1 Cut the resistor where I have the solder joint from the middle so you can Undo if you wish. 
      then pass the wires trough the case holes
   
