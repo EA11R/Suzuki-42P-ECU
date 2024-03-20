@@ -2,11 +2,25 @@
 as rusefi expanded into making better and better ecus over the years , they've released the affordable verison of their lineup and that is way over what the cappuccino needs to run since it's a 6x6 ecu
 therefore many of the outputs can be reutilized for other things and I took advantage over the fact to create a true "ULTRA AFFORDABLE CAPPUCCINO ECU" without going low on features 
 
+
+## For people with bare stock cars
+just plug the ecu and turn the key it will function as is and perform superior to stock
+
+## for nerds 
+you can get the adapter from me and solder the ecu board from RUSEFI yourself 
+I recently changed my pin size to arduino (0.8MM) on adapter side due to 1.14MM pins being difficult to source and expensive 
+would increase cost by 60$
+
+
+
 ## IMAGE OF BOARD
 
-<img width="987" alt="Screen Shot 1445-09-10 at 4 59 10 AM" src="https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/3221dfd3-cd42-4bf6-a268-273811fe91a8">
 
-![Uploading IMG_3487.JPG…]()
+<img width="892" alt="Screen Shot 1445-09-10 at 5 29 34 AM" src="https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/2b30bd2f-559f-4a84-b4cf-ca94abe880a2">
+
+
+![IMG_3487](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/7be59731-5070-45e2-8bfc-03a098b46155)
+
 
 
 
@@ -134,6 +148,18 @@ EL1 , EL2 are dropped from harness (unconnected)
 EGR No longer used (always off) 
 
 
+## supported Triggers 
+
+| TRIGGER | RECOMMENDED |
+| ------ | ------ |
+| EA11R STOCK 3 TOOTH |works but very low res (single coil only) |
+| Daewoo Distributor | recommended for single coil and COPs|
+
+## for nerds read: 
+
+
+| Distributor_wheel |[Directory](https://github.com/EA11R/Suzuki-42P-ECU/blob/main/Distributor_Modification/readme.md)|
+| ------ | ------ |
 
 
 
