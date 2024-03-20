@@ -6,7 +6,7 @@ sometimes those options could be a little expensive so heres some options you ca
 
 Distrubtor wheel 24-1 Link JP (KTD F6CG) http://www.linkecu.co.jp/KTD.html
  
- ![alt text](http://www.linkecu.co.jp/img/price/KTD/f6cg.jpg)
+ ![alt text](http://www.linkecu.co.jp/products/detail/71)
 
 
 [OPTION #2] Honda 24 Distributor wheel modification 
@@ -35,3 +35,9 @@ IMG_8449.JPG![image](https://user-images.githubusercontent.com/82368250/21380197
 
 [OPTION #4] Crank wheels (some kind people within this community have done free files)
 I will get time to do a write up on those too!
+
+[OPTION #5] Daewoo matiz distributor 
+it fits on the cappuccino directly , the cappuccino cap also fits over 
+can use a R32 crank sensor if you remove it off the case it bolts right on 
+it can also use a AEM 24-1 disc if you wish!
+my rusefi based ecu can support stock GM trigger
