@@ -6,7 +6,9 @@
 
 
 note Injectors are flipped 10# , 20# I had my harness plug flipped and this was based on a previous install
-so on a normal car #10 is 1,2 and #20 is cly 3 on it's own!
+so on a normal car #10 is 1,2 and #20 is cly 3 on it's own! 
+
+**flip injector light blue and yellow if you're following this for a install**
 
 ![alt text](https://iili.io/HcVgpX1.md.png)
 
