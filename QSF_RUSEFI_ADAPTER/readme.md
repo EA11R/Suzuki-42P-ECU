@@ -4,7 +4,9 @@ therefore many of the outputs can be reutilized for other things and I took adva
 
 
 ## For people with bare stock cars
-just plug the ecu and turn the key it will function as is and perform superior to stock
+just plug the ecu and turn the key it will function as is and perform superior to stock it will come with a base tune that can run the car 
+daily , and without the annoying fuel cut , engine rev limiter will come configured @9000 rpm to cut spark only and without any boost limitation 
+or speed however with needs to upgrade turbo , injectors etc , you can dive into the depths of this manual.
 
 ## for nerds 
 you can get the adapter from me and solder the ecu board from RUSEFI yourself 
@@ -28,6 +30,11 @@ would increase cost by 60$
 ## COP HARNESS EXPLAINED 
 <img width="442" alt="Screen Shot 1445-09-10 at 4 02 22 AM" src="https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/1bf7319e-855b-4e43-8ece-d20ddba9131a">
 
+## WARNING 
+please use orignal IG power to power ur coil pack harness instead of direct ecu feed 
+don't use 12V on ecu extra plug to feed it with power as I only use them for testing
+
+## Wiring order
 **IGN 1 = CLY 1** 
 
 **IGN 2 = CLY 2**
@@ -35,7 +42,7 @@ would increase cost by 60$
 **IGN 3 = CLY 3**
 
 
-
+## Tachometer 
 each number goes to it's co-responding cylinder don't be afraid to mismatch because it can be managed in software 
 for GND of coils it should be grounded somewhere in the engine , anywhere you wish as long as it's a good ground 
 for tach signal I suggest some aftermarket cop tach adapters 
@@ -46,17 +53,33 @@ and one such as this https://www.autosportlabs.com/product/tach-adapter/ for dum
 **if you're running dumb coils with a external ignitor , you simply connect the coil minus side of ignitor and not the ecu signal side**
 that piece will collect all grounds and will send a signal back to your orignal tach without taking it out and modfiying it 
 the cappuccino tachometer is similar to many toyotas of that era since it's denso made!
-
+before connecting "TACH" to your orignal brown wire (coil ground) cut the IGN jumper shown below
 ![image](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/929edff9-692a-4145-8b73-b0f902adcc7a)
 
-then connect "TACH" to your orignal brown wire (coil ground) , please use orignal IG power to power ur coil pack harness instead of direct ecu feed 
-don't use 12V on ecu extra plug to feed it with power as I only use them for testing
+## WARNING 
+DO NOT AT ANY CIRCUMSTANCE PLUG A DUMB COIL DIRECTLY INTO THE COP HARNESS USE A IGNITOR BOARD BOUGHT NEW OR SALVAGED FROM A YARD , HERES SOME OPTIONS SO YOU DON'T SMELL FUNNY ELECTRONICS OR LOSE 300$ IN THE BIN 
+## IGNITOR SUGGESTIONS 
+![image](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/c154b6d5-3c72-4664-8266-61c18ecc21b7) 
 
+Nissan igntiors
+
+![image](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/2f64813d-6e5a-4876-9586-0b7e9c09a4f0) 
+
+toyota igntior 
+
+![image](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/6a317038-81bd-4656-8266-e21cc06c418b)
+
+bosch (0 227 100 200) 3 channel
+
+![image](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/4db19513-2b2b-430d-a13a-40609efbd814)
+
+basically any ignitor set that can fire 3 coils would be ok for smart coils you won't need a ignitor obviously 
+
+## IGN JUMPER 
 <img width="673" alt="Screen Shot 1445-09-10 at 4 16 22 AM" src="https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/bf37807e-5c40-4d36-a933-ce3c2d94ad91">
 
 
-**make sure to cut jumper made here , and remove solder from the SMD jumper , the THT jumper is there if you somehow manage to ruin the SMD jumper however it's nice
-to have both closed when running stock coil to insure it's getting a good signal** 
+**make sure to cut jumper made here , and remove solder from the SMD jumper , the THT jumper is there if you somehow manage to ruin the SMD jumper however it's nice to have both closed when running stock coil to insure it's getting a good signal** 
 
 orignal harness side coil plug 
 https://www.aliexpress.com/item/1005002422920931.html
@@ -75,7 +98,7 @@ if ur running a stock setup and want to have a full digital cluster I suggest us
 
 ## Ask for help you're not superman!
 again if you don't have knowledge in wiring don't be afraid to ask me or consult your local wiring/ecu speicalists 
-just hand him this information and they will certianly understand why and how!
+just hand them this information and they will certianly understand why and how!
 
 
 ## CAS HARNESS EXPLAINED 
