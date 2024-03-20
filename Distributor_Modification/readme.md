@@ -4,9 +4,9 @@ sometimes those options could be a little expensive so heres some options you ca
 
 [OPTION #1] a replacment trigger wheel by link JP
 
-Distrubtor wheel 24-1 Link JP (KTD F6CG) http://www.linkecu.co.jp/KTD.html
+Distrubtor wheel 24-1 Link JP (KTD F6CG) 
  
- ![alt text](http://www.linkecu.co.jp/products/detail/71)
+ ![F6CG TRIGGER(FITS INSIDE OEM CASE)](http://www.linkecu.co.jp/products/detail/71)
 
 
 [OPTION #2] Honda 24 Distributor wheel modification 
@@ -21,7 +21,7 @@ Note : you need a 1k ohm resistor between VCC (5v+) and out (Signal)
 * wouldn't hurt to try either.
 
 
-IMG_8449.JPG![image](https://user-images.githubusercontent.com/82368250/213801973-211c1b50-6e8e-4176-873b-84ec3cf610f2.png)
+![image](https://user-images.githubusercontent.com/82368250/213801973-211c1b50-6e8e-4176-873b-84ec3cf610f2.png)
 
 <img width="282" alt="image" src="https://user-images.githubusercontent.com/82368250/213802042-94ef36bc-8fbc-4960-9dfe-6407ffefd9bb.png">
 
