@@ -42,9 +42,11 @@ don't use 12V on ecu extra plug to feed it with power as I only use them for tes
 **IGN 3 = CLY 3**
 
 
-## Tachometer 
+ 
 each number goes to it's co-responding cylinder don't be afraid to mismatch because it can be managed in software 
 for GND of coils it should be grounded somewhere in the engine , anywhere you wish as long as it's a good ground 
+
+## TACHOMETER
 for tach signal I suggest some aftermarket cop tach adapters 
 such as this if you're running "smart coils without a external ignitor" https://www.ebay.com/itm/142171581596 
 
