@@ -28,18 +28,24 @@ would increase cost by 60$
 ## COP HARNESS EXPLAINED 
 <img width="442" alt="Screen Shot 1445-09-10 at 4 02 22 AM" src="https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/1bf7319e-855b-4e43-8ece-d20ddba9131a">
 
-each number goes to it's co-responding cylinder don't be afraid to mismatch because it can be managed in software 
-for GND of coils it should be grounded somewhere in the engine , anywhere you wish as long as it's a good ground 
-for tach signal I suggest some aftermarket cop tach adapters 
-such as this if you're running "smart coils without a external ignitor" https://www.ebay.com/itm/142171581596 and one such as this https://www.autosportlabs.com/product/tach-adapter/ 
-
 **IGN 1 = CLY 1** 
 
 **IGN 2 = CLY 2**
 
 **IGN 3 = CLY 3**
 
-**if you're running dumb coils with a external ignitor , you simply connect the coil side of ignitor and not the ecu signal side**
+
+
+each number goes to it's co-responding cylinder don't be afraid to mismatch because it can be managed in software 
+for GND of coils it should be grounded somewhere in the engine , anywhere you wish as long as it's a good ground 
+for tach signal I suggest some aftermarket cop tach adapters 
+such as this if you're running "smart coils without a external ignitor" https://www.ebay.com/itm/142171581596 
+
+and one such as this https://www.autosportlabs.com/product/tach-adapter/ for dumb coils!
+
+**if you're running dumb coils with a external ignitor , you simply connect the coil minus side of ignitor and not the ecu signal side**
+that piece will collect all grounds and will send a signal back to your orignal tach without taking it out and modfiying it 
+the cappuccino tachometer is similar to many toyotas of that era since it's denso made!
 
 ![image](https://github.com/EA11R/Suzuki-42P-ECU/assets/82368250/929edff9-692a-4145-8b73-b0f902adcc7a)
 
