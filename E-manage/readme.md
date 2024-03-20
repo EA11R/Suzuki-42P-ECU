@@ -5,5 +5,9 @@
 | Jumper Informaiton for E-MANAGE BLUE |  [Click Here](https://minkara.carview.co.jp/userid/522838/car/457922/1506196/note.aspx) |
 
 
+note Injectors are flipped 10# , 20# I had my harness plug flipped and this was based on a previous install
+so on a normal car #10 is 1,2 and #20 is cly 3 on it's own!
 
 ![alt text](https://iili.io/HcVgpX1.md.png)
+
+
