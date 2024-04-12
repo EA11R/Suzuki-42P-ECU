@@ -97,7 +97,8 @@ anymore
 ## AUX 1 (one of 3 AUX WIRES across the board)
 it's a gauge input bundled with the COP plug you can use that to put any analog gauge u wish into ur ecu
 if ur running a stock setup and want to have a full digital cluster I suggest using it for fuel level!
-
+AUX1 can be used for a external wideband that isn't CAN based but I suggest using it for something more useful
+such as oil temp or pressure along with the other AUX gauges
 ## Ask for help you're not superman!
 again if you don't have knowledge in wiring don't be afraid to ask me or consult your local wiring/ecu speicalists 
 just hand them this information and they will certianly understand why and how!
