@@ -27,8 +27,6 @@ it can be pulled out of the ecu but I honestly can't tell how to turn that digit
 the IC before it however has a gradiant signal of voltage via the variant resistance of the temp thermos 
 I have took the neccesary pins to hook the ECU alongsite a daughter card that uses speeduino 
 
-## Currently Known PNPs
-https://www.keisport.us/pnp/
 ## Current Daugtercards on sale
    MTR40BB : https://buyee.jp/item/yahoo/auction/u1052820291
    
